@@ -1,0 +1,15 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Favorites List -->
+    <item android:id="@+id/action_favoriteList"
+        android:title="@string/action_favorite_list"
+        app:showAsAction="never"/>
+
+    <!-- Home -->
+    <item android:id="@+id/action_home"
+        android:icon="@drawable/ic_action_home"
+        android:title="@string/action_home"
+        app:showAsAction="always" />
+
+</menu>

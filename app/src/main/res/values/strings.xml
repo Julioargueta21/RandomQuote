@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RandomQuote</string>
+    <string name="Home_Question_Top">Select Movie </string>
+    <string name="Home_Question_Middle">OR</string>
+    <string name="Home_Question_Bottom">Famous Quote</string>
+    <string name="MovieSelection">Random Movie Quote</string>
+    <string name="FamousSelection">Random Famous Quote</string>
+    <string name="FontSelection">Change the Font?</string>
+    <string name="ThemeSelection">Change the Theme?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="action_favorite">Favorite</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_respin">Respin</string>
+    <string name="action_share">Share</string>
+    <string name="action_home">Home</string>
+    <string name="action_favorite_list">Favorites List</string>
+    <string name="delete">Delete</string>
+    <string name="savedQuote">Saved Quote:</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="casual">Casual</string>
+    <string name="mono">mono</string>
+    <string name="or">Or</string>
+
+
+</resources>
